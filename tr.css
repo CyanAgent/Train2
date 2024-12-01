@@ -1,0 +1,21 @@
+h1 {
+    background-color: purple; 
+      }
+    
+    
+    body{
+        background-color: Goldenrod; 
+        padding: 100px 300px 100px 300px
+        
+    }
+    
+    
+    li,p,br
+    {
+        background-color: rgba(170,0,170, 0.8)
+    
+    }
+    img 
+    {
+        width:200px;
+    }
